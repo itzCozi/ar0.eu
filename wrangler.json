@@ -1,0 +1,7 @@
+{
+  "name": "ar0-eu-shortlinks",
+  "compatibility_date": "2025-12-20",
+  "assets": {
+    "directory": "./public"
+  }
+}
