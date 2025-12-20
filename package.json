@@ -1,0 +1,9 @@
+{
+  "name": "ar0-eu-shortlinks",
+  "version": "1.0.0",
+  "description": "Shortlink service for ar0.eu",
+  "scripts": {
+    "dev": "npx wrangler pages dev public",
+    "preview:html": "python3 -m http.server -d public 8080"
+  }
+}
